@@ -3,7 +3,7 @@ Scrivano is a notetaking application for handwritten notes. This repository cont
 
 ### Explanation:
 - **Installation section**: sudo dpkg -i scrivano.deb.
-- **Credits**: [](https://github.com/scrivanolabs/).
+- **Credits**:(https://github.com/scrivanolabs/).
 
 
 
